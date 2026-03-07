@@ -37,16 +37,27 @@
 
 ## Интерфейс приложения
 
-### Главная панель
+### Оценка качества
+![Approval Status](screenshots/Оценка_качества_УГП_по_исполнителям.png)
+![Approval Status](screenshots/ценка_качества_УГП_по_подразделениям.png)
+
+### Определение площадных характеристик
+![Approval Status](screenshots/определение_площадных_характеристик_в_шт.png)
+![Approval Status](screenshots/определение_площадных_характеристик_в_ГА.png)
+
+## Согласование границ ОГХ
+![Approval Status](screenshots/Согласование_границ_ОГХ.png)
 
 ### Статус утверждения
-![Approval Status](статус утверждения 1.png,статус утверждения 2.png)
+![Approval Status](screenshots/статус_утверждения_1.png)
+![Approval Status](screenshots/статус_утверждения_2.png)
+![Approval Status](screenshots/статус_утверждения_3.png)
 
 ### Динамика выполнения
 ![Dynamics](screenshots/динамика.png)
 
 ### Отчёт ОИВ
-![OIV](screenshots/ОИВ.png)
+![OIV](screenshots/отчёт_по_ОИВ.png)
 
 
 ## Технологии
